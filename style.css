@@ -1,0 +1,35 @@
+body {
+    margin:0% auto;
+}
+
+span {
+    font-size:30pt;
+    margin:%;
+    font-family:times-new-roman;
+}
+
+hypers {
+
+    font-size:20pt;
+    margin:%;
+    font-family:times-new-roman;
+}
+smol {
+    font-size:14pt;
+    margin:%;
+    font-family:times-new-roman;
+}
+
+hypers2 {
+
+    font-size:18pt;
+    margin:%;
+    font-family:times-new-roman;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
